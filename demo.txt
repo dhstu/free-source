@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is task1 file
 =======
 this is task2 file
@@ -8,3 +9,7 @@ this is task2 file
 this is task2 file
 task2 is running
 >>>>>>> task2
+=======
+this is task1 file
+task1 is running
+>>>>>>> task1
