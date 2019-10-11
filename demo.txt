@@ -13,3 +13,4 @@ task2 is running
 this is task1 file
 task1 is running
 >>>>>>> task1
+This's conflict?
