@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is task1 file
+=======
+this is task2 file
+>>>>>>> task2
